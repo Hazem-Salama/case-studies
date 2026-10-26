@@ -7,6 +7,7 @@ Client systems I designed and built end to end. The code belongs to my clients a
 | Project | What it is | Read |
 |---|---|---|
 | **Sandlee** | On-demand services marketplace for Saudi Arabia: client app, provider app, admin dashboard and website on one backend. The card is held at quote acceptance and captured on job completion. In-app calls, Arabic-first, hosted in Riyadh. | [English](sandlee/README.md) · [العربية](sandlee/README.ar.md) |
+| **Mo3an** | Installment finance and collections back-office for Saudi Arabia. Contracts generate their own schedule and three Arabic PDFs, payments post in locked transactions, and the treasury balance is summed from the ledger. | [English](mo3an/README.md) · [العربية](mo3an/README.ar.md) |
 
 Want a walkthrough? **[HazemSalama108@gmail.com](mailto:HazemSalama108@gmail.com)** · [LinkedIn](https://linkedin.com/in/hazem-salama-290310310) · [hazemsalama.dev](https://hazemsalama.dev)
 
@@ -19,5 +20,7 @@ Want a walkthrough? **[HazemSalama108@gmail.com](mailto:HazemSalama108@gmail.com
 أنظمة صممتها وبنيتها كاملة لعملائي. الشيفرة ملك لهم وليست منشورة، وكل دراسة تشرح المشكلة والمعمارية والقرارات الهندسية خلفها.
 
 **سندلي:** منصة خدمات عند الطلب في السعودية. تطبيق للعميل وتطبيق للمنشأة ولوحة إدارة وموقع على خادم واحد. يُحجز المبلغ عند قبول العرض ويُلتقط عند اكتمال الخدمة، مع مكالمات داخل التطبيق، والعربية أولاً، والاستضافة في الرياض. [اقرأ بالعربية](sandlee/README.ar.md)
+
+**مُعان:** نظام للتمويل بالتقسيط والتحصيل في السعودية. العقد يولّد جدول أقساطه وثلاثة مستندات عربية، والدفعات تُقيَّد في معاملات مقفلة، ورصيد الخزينة يُجمع من دفتر الحركة. [اقرأ بالعربية](mo3an/README.ar.md)
 
 </div>

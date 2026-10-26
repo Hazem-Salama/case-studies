@@ -1,9 +1,23 @@
+<a href="sandlee/"><img src="sandlee/assets/banner-en.jpg" alt="Sandlee case study" width="100%"></a>
+
 # Case Studies — Hazem Salama
 
 Client systems I designed and built end to end. The code belongs to my clients and stays private; each case study covers the problem, the architecture and the engineering decisions behind it.
 
-| Project | What it is | Stack |
+| Project | What it is | Read |
 |---|---|---|
-| [**Sandlee**](sandlee/) | On-demand services marketplace for Saudi Arabia: client app, provider app, admin, website. Card holds captured on job completion, in-app calls, Arabic-first. | Node.js · PostgreSQL · Redis · Expo / React Native · Next.js · Oracle Cloud |
+| **Sandlee** | On-demand services marketplace for Saudi Arabia: client app, provider app, admin dashboard and website on one backend. The card is held at quote acceptance and captured on job completion. In-app calls, Arabic-first, hosted in Riyadh. | [English](sandlee/README.md) · [العربية](sandlee/README.ar.md) |
 
 Want a walkthrough? **[HazemSalama108@gmail.com](mailto:HazemSalama108@gmail.com)** · [LinkedIn](https://linkedin.com/in/hazem-salama-290310310) · [hazemsalama.dev](https://hazemsalama.dev)
+
+---
+
+<div dir="rtl">
+
+# دراسات حالة — حازم سلامة
+
+أنظمة صممتها وبنيتها كاملة لعملائي. الشيفرة ملك لهم وليست منشورة، وكل دراسة تشرح المشكلة والمعمارية والقرارات الهندسية خلفها.
+
+**سندلي:** منصة خدمات عند الطلب في السعودية. تطبيق للعميل وتطبيق للمنشأة ولوحة إدارة وموقع على خادم واحد. يُحجز المبلغ عند قبول العرض ويُلتقط عند اكتمال الخدمة، مع مكالمات داخل التطبيق، والعربية أولاً، والاستضافة في الرياض. [اقرأ بالعربية](sandlee/README.ar.md)
+
+</div>
